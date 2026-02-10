@@ -118,7 +118,7 @@ export const PRODUCTS: Product[] = [
   { "id": 112, "nome": "João da Mata", "cm": "20", "valor": 18 },
   { "id": 113, "nome": "Rosa Caveira", "cm": "50", "valor": 55 },
   { "id": 114, "nome": "Preto Velho em Pé", "cm": "45", "valor": 65 },
-  { "id": 115, "nome": "Tupinambá", "cm": "35", "valor": 60, "imagem": "https://i.postimg.cc/Pf6GmKLy/tupinamba.jpg" },
+  { "id": 115, "nome": "Tupinambá", "cm": "35", "valor": 55, "imagem": "https://i.postimg.cc/Pf6GmKLy/tupinamba.jpg" },
   { "id": 116, "nome": "Nazaré", "cm": "20", "valor": 18 },
   { "id": 117, "nome": "Caboclo Arranca Toco", "cm": "50", "valor": 65 },
   { "id": 118, "nome": "Tranca Rua das Almas", "cm": "45", "valor": 55 },
@@ -156,5 +156,8 @@ export const PRODUCTS: Product[] = [
   { "id": 150, "nome": "Corre Beirada", "cm": "30", "valor": 35 },
   { "id": 151, "nome": "Preto Velho", "cm": "30", "valor": 45 },
   { "id": 152, "nome": "Preta Velha", "cm": "30", "valor": 45 },
-  { "id": 153, "nome": "Nego Gerson", "cm": "45", "valor": 60 }
+  { "id": 153, "nome": "Nego Gerson", "cm": "45", "valor": 60 },
+  { "id": 154, "nome": "Surrupira", "cm": "20", "valor": 20 },
+  { "id": 155, "nome": "Maria do Cais", "cm": "40", "valor": 65 },
+  { "id": 156, "nome": "Mariana com Arara", "cm": "30", "valor": 40 }
 ];
