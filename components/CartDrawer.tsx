@@ -38,7 +38,7 @@ const CartDrawer: React.FC<CartDrawerProps> = ({
       .join('\n');
 
     const message = encodeURIComponent(
-      `*NOVO PEDIDO - ARTESANATO SAGRADO*\n\n` +
+      `*NOVO PEDIDO - ART BRASIL*\n\n` +
       `*CLIENTE:* ${customerName}\n` +
       `*CONTATO:* ${customerPhone}\n\n` +
       `*ITENS:*\n${itemsText}\n\n` +
