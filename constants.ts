@@ -91,7 +91,7 @@ export const PRODUCTS: Product[] = [
   { "id": 86, "nome": "Ogum de Ronda", "cm": "50", "valor": 60, "imagem": "" },
   { "id": 87, "nome": "Cabocla Ita", "cm": "24", "valor": 25, "imagem": "" },
   { "id": 88, "nome": "Zezinho", "cm": "20", "valor": 18, "imagem": "" },
-  { "id": 89, "nome": "Pedrinho", "cm": "24", "valor": 24, "imagem": "" },
+  { "id": 89, "nome": "Pedrinho", "cm": "24", "valor": 24, "imagem": "https://i.postimg.cc/BnwkdSR8/Whats_App_Image_2026_02_11_at_11_46_23_(1).jpg" },
   { "id": 90, "nome": "Iemanjá", "cm": "35", "valor": 45, "imagem": "" },
   { "id": 91, "nome": "Zé Raimundo", "cm": "45", "valor": 55, "imagem": "" },
   { "id": 92, "nome": "Exú Duas Cabeças", "cm": "24", "valor": 24, "imagem": "" },
