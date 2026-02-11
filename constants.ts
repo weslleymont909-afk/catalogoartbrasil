@@ -25,7 +25,7 @@ export const PRODUCTS: Product[] = [
   { "id": 20, "nome": "Cabocla Cobra Coral", "cm": "45", "valor": 70, "imagem": "" },
   { "id": 21, "nome": "Jorge Malandro", "cm": "30", "valor": 40, "imagem": "" },
   { "id": 22, "nome": "Chica Baiana", "cm": "50", "valor": 70, "imagem": "" },
-  { "id": 23, "nome": "Exú Marabô", "cm": "30", "valor": 40, "imagem": "" },
+  { "id": 23, "nome": "Exú Marabô", "cm": "30", "valor": 40, "imagem": "https://i.postimg.cc/5tYT1cM6/Whats_App_Image_2026_02_11_at_12_01_28.jpg" },
   { "id": 24, "nome": "Yemanjá do Luxo", "cm": "17", "valor": 16, "imagem": "" },
   { "id": 25, "nome": "João da Mata", "cm": "50", "valor": 55, "imagem": "" },
   { "id": 26, "nome": "Jurema Busto", "cm": "50", "valor": 55, "imagem": "" },
