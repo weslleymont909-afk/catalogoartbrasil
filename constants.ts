@@ -51,7 +51,7 @@ export const PRODUCTS: Product[] = [
   { "id": 46, "nome": "Índia Tapuia", "cm": "30", "valor": 45, "imagem": "" },
   { "id": 47, "nome": "Cigana do Balé", "cm": "40", "valor": 55, "imagem": "" },
   { "id": 48, "nome": "Zé Pilintra no Poste", "cm": "50", "valor": 65, "imagem": "https://i.postimg.cc/zGP69z4f/Whats_App_Image_2026_02_11_at_11_46_05.jpg" },
-  { "id": 49, "nome": "Zé Pilintra no Poste", "cm": "22", "valor": 20, "imagem": "" },
+  { "id": 49, "nome": "Zé Pilintra no Poste", "cm": "22", "valor": 20, "imagem": "https://i.postimg.cc/DwYHtvRK/Whats_App_Image_2026_02_11_at_11_46_01_(2).jpg" },
   { "id": 50, "nome": "Zé Pilintra", "cm": "70", "valor": 110, "imagem": "https://i.postimg.cc/vmgkMRdT/Whats_App_Image_2026_02_11_at_11_46_25.jpg" },
   { "id": 51, "nome": "Zé Pilintra Malandro", "cm": "30", "valor": 40, "imagem": "" },
   { "id": 52, "nome": "Xangô sem Manto", "cm": "27", "valor": 36, "imagem": "" },
