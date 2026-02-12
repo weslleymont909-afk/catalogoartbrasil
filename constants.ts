@@ -122,7 +122,7 @@ export const PRODUCTS: Product[] = [
   { "id": 117, "nome": "Caboclo Arranca Toco", "cm": "50", "valor": 65, "imagem": "" },
   { "id": 118, "nome": "Tranca Rua das Almas", "cm": "45", "valor": 55, "imagem": "" },
   { "id": 119, "nome": "Mariana Marinheira (Pilotando)", "cm": "27/50", "valor": 75, "imagem": "" },
-  { "id": 120, "nome": "Chica Baiana", "cm": "20", "valor": 22, "imagem": "https://i.postimg.cc/dVSpzsg3/Whats_App_Image_2026_02_11_at_11_46_10.jpg" },
+  { "id": 120, "nome": "Chica Baiana", "cm": "20", "valor": 22, "imagem": "https://i.postimg.cc/Gmp678gn/Whats_App_Image_2026_02_11_at_11_45_39_(1).jpg" },
   { "id": 121, "nome": "Maria Navalha", "cm": "20", "valor": 18, "imagem": "" },
   { "id": 122, "nome": "Maria Farrapo", "cm": "20", "valor": 18, "imagem": "" },
   { "id": 123, "nome": "Exú Rei (No Trono)", "cm": "22", "valor": 22, "imagem": "" },
